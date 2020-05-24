@@ -1,2 +1,2 @@
 # slusarcik.cz
-My personal web presentation
+This is just my personal presentation. I need to try how GitHub works. :)
